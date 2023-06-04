@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola soy Guido Carini<br><br>Desarrollador frontend /React<br><br>skills: html, css, javascript , react, firebase , git hub , node.js , <br>sass.<br><br>aprendiendo pyhton y desarrollo mobile
+Hola soy Guido Carini<br><br>Desarrollador frontend /React<br><br>skills: html, css, javascript , react, firebase , git hub , node.js , <br>sass.<br><br>aprendiendo pyhton y java
 
 
 ## 🌐 Socials:
